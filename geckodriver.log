@@ -1,0 +1,187 @@
+1674286930751	geckodriver	INFO	Listening on 127.0.0.1:18942
+1674286933796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\FARZAD~1\\AppData\\Local\\Temp\\rust_mozprofileSLz3f7"
+1674286934333	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674286934344	Marionette	INFO	Listening on port 18952
+Read port: 18952
+1674286934547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\FARZAD~1\\AppData\\Local\\Temp\\rust_mozprofileSLz3f7\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://digiskills.pk/js/Jquery1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1674286947981	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://lms.digiskills.pk/dist/js/themefunction.js, line 77: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/Login.aspx, line 388: TypeError: document.getElementById(...) is null
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lms.digiskills.pk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lms.digiskills.pk."
+JavaScript error: https://lms.digiskills.pk/Default.aspx?id=76be020f-250e-4638-b45b-ae6bb647fc79, line 466: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/Default.aspx?id=76be020f-250e-4638-b45b-ae6bb647fc79, line 2201: TypeError: $(...).on(...).catch is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lms.digiskills.pk."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 1238: TypeError: shadowRoot is null
+1674287170767	Marionette	INFO	Stopped listening on port 18952
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+ 0
+1674287164302	Marionette	INFO	Listening on port 19088
+Read port: 19088
+1674287164663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\FARZAD~1\\AppData\\Local\\Temp\\rust_mozprofile1nRLhE\\search.json.mozlz4", (void 0)))
+1674287169567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://lms.digiskills.pk/dist/js/themefunction.js, line 77: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/Login.aspx, line 388: TypeError: document.getElementById(...) is null
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lms.digiskills.pk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lms.digiskills.pk."
+JavaScript error: https://lms.digiskills.pk/Default.aspx?id=30888dbc-290e-4e27-89aa-44875a35e11f, line 466: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/Default.aspx?id=30888dbc-290e-4e27-89aa-44875a35e11f, line 2201: TypeError: $(...).on(...).catch is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lms.digiskills.pk."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lms.digiskills.pk."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Unable to find target with innerWindowId:34359738369"
+console.error: "Unable to find target with innerWindowId:34359738369"
+console.error: "Unable to find target with innerWindowId:34359738369"
+console.error: "Unable to find target with innerWindowId:34359738369"
+console.error: "Unable to find target with innerWindowId:34359738374"
+console.error: "Unable to find target with innerWindowId:34359738374"
+console.error: "Unable to find target with innerWindowId:34359738374"
+console.error: "Unable to find target with innerWindowId:34359738374"
+console.error: "Unable to find target with innerWindowId:34359738374"
+console.error: "Unable to find target with innerWindowId:34359738374"
+console.error: "Unable to find target with innerWindowId:6442451080"
+console.error: "Unable to find target with innerWindowId:6442451080"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: "Unable to find target with innerWindowId:36507222017"
+console.error: "Unable to find target with innerWindowId:36507222017"
+console.error: "Unable to find target with innerWindowId:36507222017"
+console.error: "Unable to find target with innerWindowId:36507222017"
+console.error: "Unable to find target with innerWindowId:36507222020"
+console.error: "Unable to find target with innerWindowId:36507222020"
+console.error: "Unable to find target with innerWindowId:36507222020"
+console.error: "Unable to find target with innerWindowId:36507222020"
+console.error: "Unable to find target with innerWindowId:36507222020"
+console.error: "Unable to find target with innerWindowId:36507222020"
+console.error: "Unable to find target with innerWindowId:6442451091"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442451091"
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/network-observer/NetworkResponseListener.sys.mjs, line 312: TypeError: channel.getResponseHeader is not a function
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674288084170	Marionette	INFO	Stopped listening on port 19088
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1674288085189	geckodriver	INFO	Listening on 127.0.0.1:19309
+1674288088254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\FARZAD~1\\AppData\\Local\\Temp\\rust_mozprofileZKTtgN"
+1674288088692	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674288088700	Marionette	INFO	Listening on port 19319
+Read port: 19319
+1674288088966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\FARZAD~1\\AppData\\Local\\Temp\\rust_mozprofileZKTtgN\\search.json.mozlz4", (void 0)))
+1674288092416	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://lms.digiskills.pk/dist/js/themefunction.js, line 77: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/Login.aspx, line 388: TypeError: document.getElementById(...) is null
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lms.digiskills.pk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lms.digiskills.pk."
+JavaScript error: https://lms.digiskills.pk/Default.aspx?id=94ceb5b7-3ab7-47cd-b5b8-0034779b5e26, line 466: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/Default.aspx?id=94ceb5b7-3ab7-47cd-b5b8-0034779b5e26, line 2201: TypeError: $(...).on(...).catch is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://lms.digiskills.pk."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: "Unable to find target with innerWindowId:6442450969"
+console.error: "Unable to find target with innerWindowId:6442450969"
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901889"
+console.error: "Unable to find target with innerWindowId:12884901894"
+console.error: "Unable to find target with innerWindowId:12884901894"
+console.error: "Unable to find target with innerWindowId:12884901894"
+console.error: "Unable to find target with innerWindowId:12884901894"
+console.error: "Unable to find target with innerWindowId:12884901894"
+console.error: "Unable to find target with innerWindowId:12884901894"
+console.error: "Unable to find target with innerWindowId:6442450969"
+console.error: "Unable to find target with innerWindowId:6442450969"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1674288338022	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-01-21T08:05:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-21T08:05:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-21T08:05:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-21T08:05:38Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-21T08:05:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-21T08:05:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-21T08:05:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-21T08:05:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 1815 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S487092997%3A1674288474256188&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DWhvDV-_jzZA%2526embeds_origin%253Dhttps%25253A%25252F%25252Flms.digiskills.pk%2526feature%253Demb_logo%2526themeRefresh%253D1&ec=65620&hl=en&passive=true&service=youtube&uilel=3&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHdTogH5gMRpo-K7hhvuW0i0kh9yuR8syOYi61q-mOTVTzQC9iChYYuuHiO0-P38YF1JjYS8 line 323 > injectedScript line 2 > eval line 6010 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S487092997%3A1674288474256188&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DWhvDV-_jzZA%2526embeds_origin%253Dhttps%25253A%25252F%25252Flms.digiskills.pk%2526feature%253Demb_logo%2526themeRefresh%253D1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=AWnogHfu3zYJIcq1osfbvjW-iDquMCDIyJvH-NP77FOy6QrLoD5oEgZ84ZHNfDZspRFgikmHleJqNQ&service=youtube line 323 > injectedScript line 2 > eval line 1709 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: https://lms.digiskills.pk/dist/js/themefunction.js, line 77: TypeError: document.getElementById(...) is null
+1674290177850	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://lms.digiskills.pk/Login.aspx, line 388: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/dist/js/themefunction.js, line 77: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/dist/js/themefunction.js, line 77: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/dist/js/themefunction.js, line 77: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/Login.aspx, line 388: TypeError: document.getElementById(...) is null
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: https://lms.digiskills.pk/Default.aspx?id=323b2771-ffdd-44e0-9e77-eec6ccd46ffc, line 466: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/Default.aspx?id=323b2771-ffdd-44e0-9e77-eec6ccd46ffc, line 2201: TypeError: $(...).on(...).catch is not a function
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript error: https://lms.digiskills.pk/Default.aspx, line 466: TypeError: document.getElementById(...) is null
+JavaScript error: https://lms.digiskills.pk/Default.aspx, line 2201: TypeError: $(...).on(...).catch is not a function
+JavaScript error: https://lms.digiskills.pk/dist/js/themefunction.js, line 77: TypeError: document.getElementById(...) is null
+1674297335233	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://lms.digiskills.pk/Login.aspx, line 388: TypeError: document.getElementById(...) is null
+1674297337288	Marionette	INFO	Stopped listening on port 19319
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
